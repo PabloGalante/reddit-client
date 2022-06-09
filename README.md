@@ -85,15 +85,15 @@ For this project, I build an application for Reddit using everything I've learne
 #### Phone
 - Phone Home
 <p align="center">
-    <img src="./wireframes/Phone-Home.png" height="500px" width="400px">
+    <img src="./wireframes/Phone-Home.png" height="500px" width="300px">
 </p>
 
 - Phone Search
 <p align="center">
-    <img src="./wireframes/Phone-Search.png" height="500px" width="400px">
+    <img src="./wireframes/Phone-Search.png" height="500px" width="300px">
 </p>
 
 - Phone Categories List
 <p align="center">
-    <img src="./wireframes/Phone-Categories-List.png" height="500px" width="400px">
+    <img src="./wireframes/Phone-Categories-List.png" height="500px" width="300px">
 </p>
