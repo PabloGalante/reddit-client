@@ -62,24 +62,38 @@ For this project, I build an application for Reddit using everything I've learne
 ### Wireframes
 
 #### Desktop
-<img src="./wireframes/Desktop-Web-App.png">
+<p align="center">
+    <img src="./wireframes/Desktop-Web-App.png">
+</p>
 
 #### Tablet
 - Tablet Home Page
-<img src="./wireframes/Tablet-Home.png">
+<p align="center">
+    <img src="./wireframes/Tablet-Home.png" height="500px" width="400px">
+</p>
 
 - Tablet Focus
-<img src="./wireframes/Tablet-Focus.png">
+<p align="center">
+    <img src="./wireframes/Tablet-Focus.png" height="500px" width="400px">
+</p>
 
 - Tablet Categories List
-<img src="./wireframes/Tablet-Categories-List.png">
+<p align="center">
+    <img src="./wireframes/Tablet-Categories-List.png" height="500px" width="400px">
+</p>
 
 #### Phone
 - Phone Home
-<img src="./wireframes/Phone-Home.png">
+<p align="center">
+    <img src="./wireframes/Phone-Home.png" height="500px" width="400px">
+</p>
 
 - Phone Search
-<img src="./wireframes/Phone-Search.png">
+<p align="center">
+    <img src="./wireframes/Phone-Search.png" height="500px" width="400px">
+</p>
 
 - Phone Categories List
-<img src="./wireframes/Phone-Categories-List.png">
+<p align="center">
+    <img src="./wireframes/Phone-Categories-List.png" height="500px" width="400px">
+</p>
