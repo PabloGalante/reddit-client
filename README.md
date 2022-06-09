@@ -4,7 +4,7 @@
 
 For this project, I build an application for Reddit using everything I've learned, including React and Redux. Reddit is a website where people share links to articles, media and other things on the web. The Reddit API provides data which I integrate into the application. The application will allow users to view and search posts and comments provided by the API.
 
-## Project Requirements
+## Project Requirements
 
 - Build the application using **React** and **Redux**
 
@@ -48,7 +48,7 @@ For this project, I build an application for Reddit using everything I've learne
 
 ###### OPTIONAL: Make your application a progressive web app
 
-### Prerequisites
+### Prerequisites
     - HTML
     - CSS
     - JavaScript
