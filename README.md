@@ -58,3 +58,28 @@ For this project, I build an application for Reddit using everything I've learne
     - Git and GitHub
     - Command line and file navigation
     - Wireframing
+
+### Wireframes
+
+#### Desktop
+<img src="./wireframes/Desktop-Web-App.png">
+
+#### Tablet
+- Tablet Home Page
+<img src="./wireframes/Tablet-Home.png">
+
+- Tablet Focus
+<img src="./wireframes/Tablet-Focus.png">
+
+- Tablet Categories List
+<img src="./wireframes/Tablet-Categories-List.png">
+
+#### Phone
+- Phone Home
+<img src="./wireframes/Phone-Home.png">
+
+- Phone Search
+<img src="./wireframes/Phone-Search.png">
+
+- Phone Categories List
+<img src="./wireframes/Phone-Categories-List.png">
